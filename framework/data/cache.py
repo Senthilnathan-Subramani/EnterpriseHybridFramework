@@ -1,0 +1,2 @@
+class DataCache(dict):
+    pass
