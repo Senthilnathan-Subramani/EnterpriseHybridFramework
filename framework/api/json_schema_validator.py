@@ -1,0 +1,2 @@
+class JsonSchemaValidator:
+    pass

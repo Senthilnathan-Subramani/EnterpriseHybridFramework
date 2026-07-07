@@ -1,0 +1,2 @@
+class PayloadBuilder(dict):
+    pass
