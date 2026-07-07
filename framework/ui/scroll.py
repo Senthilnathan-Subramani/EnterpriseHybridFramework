@@ -1,0 +1,1 @@
+class Scroll: pass
